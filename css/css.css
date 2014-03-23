@@ -1,7 +1,8 @@
+#titel{
+  text-align: center; 
+}
 img{
   display: block;
   margin: 30px auto;
 }
-body{
-  background: red;
-}
+
